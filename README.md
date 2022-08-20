@@ -1,6 +1,6 @@
-# Hello, World! 👋
+# Hello, World! 🌏
 
-✨ My name is **Sergey**
+ My name is **Sergey**
 
 ## 📌 GitHub Stats and Top Languages
 
