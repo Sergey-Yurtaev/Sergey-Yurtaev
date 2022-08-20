@@ -1,6 +1,6 @@
 # Hello, World! 🌏
 
- My name is **Sergey**
+ **My name is Sergey, I'm 30 years old, I have been developing iOS development for about 1 years.**
 
 ## 📌 GitHub Stats and Top Languages
 
