@@ -14,8 +14,8 @@
 
 You can find and get touch with me on these accounts 
 
-[![LinkedIn Badge](https://img.shields.io/badge/GARIFULLIN-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sergey-yurtaev/)
+[![LinkedIn Badge](https://img.shields.io/badge/Yurtaev Sergey-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sergey-yurtaev/)
 <br>
-[![Telegram Badge](https://img.shields.io/badge/GARIFULLIN-write%20_%20me-blue?style=for-the-badge&logo=telegram)](https://t.me/YurtaevSergey)
+[![Telegram Badge](https://img.shields.io/badge/Yurtaev Sergey-write%20_%20me-blue?style=for-the-badge&logo=telegram)](https://t.me/YurtaevSergey)
 <br>
 
